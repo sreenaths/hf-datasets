@@ -1,5 +1,5 @@
 # hf-datasets
-Notebooks for building my HuggingFace datasets
+Notebooks for building some useful HuggingFace datasets.
 
 ## Setup
 ```
