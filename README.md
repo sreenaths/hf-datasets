@@ -9,6 +9,11 @@ pip install -r requirements.txt
 ```
 
 ## Start Jupyterlab
+#### On local machine
 ```
 jupyter lab --NotebookApp.token=''
+```
+#### On a remote server
+```
+jupyter lab --NotebookApp.token='' --no-browser --ip 0.0.0.0
 ```
